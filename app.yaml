@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: astro-dev-3
+owner: lorentzkindewasmer-tests
+package: .
